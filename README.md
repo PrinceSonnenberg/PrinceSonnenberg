@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning ... to create software products for the Apple Ecosystem.
 - 💞️ I’m looking to collaborate on ... developing products that improve the lives of everyday people.
 - 📫 How to reach me ... prince.sonnenberg@gmail.com or on twitter on the handle @Sonn_enberg
+- My app is available for download on the APP STORE - https://apps.apple.com/za/app/do-one-day/id1564888118
 
 <!---
 PrinceSonnenberg/PrinceSonnenberg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
